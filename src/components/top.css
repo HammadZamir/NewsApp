@@ -1,0 +1,8 @@
+.top{
+    position: fixed;
+    right: 20px;
+    bottom: 100px;
+    font-weight: bold;
+    border-radius: 20px;
+    padding: 8px;
+}
